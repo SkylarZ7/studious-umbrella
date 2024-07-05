@@ -48,7 +48,7 @@ input::placeholder{
   transform: translate(-50%, -50%);
 }
 
-.city_name, .temperature{
+.city-name, .temperature, .img{
   text-align: center;
   font-size: 3em;
   line-height: 1.2em;
